@@ -28,6 +28,14 @@ Create new Features to account for Time Series auto Correlation between rows.
 
 2. The reason for doing so was due to the abundant news articles as well as data available for those in particular.
 
+#### EDA - Closing Prices Trends
+
+![Alt text](ClosingPricesTrends.png?raw=true "ClosingPricesTrends.png")
+
+#### EDA - Interpolation Of Missing Values
+
+![Alt text](InterpolationOfMissingValues.png?raw=true "InterpolationOfMissingValues.png")
+
 #### 3. Split train and Test
 
 1. Transform target variable to binary Stock-Movement Up/Down (0/1)
